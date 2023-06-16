@@ -1,0 +1,22 @@
+dateModified: 1686930324
+email:
+  fromEmail: christophe1999da@gmail.com
+  fromName: 'UNITED UBUNTU AFRICA'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0d0aee3e-b907-4c47-a9ed-91ea98dddcdf: 'UNITED UBUNTU AFRICA' # UNITED UBUNTU AFRICA
+    93b878d0-b2c6-424a-b0b6-78f69c87ff46: 'UNITED UBUNTU AFRICA' # UNITED UBUNTU AFRICA
+    45713ca9-d281-4b3c-ba77-2d5101e48302: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'UNITED UBUNTU AFRICA'
+  schemaVersion: 4.4.0.4
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

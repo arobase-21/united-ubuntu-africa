@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: 'UNITED UBUNTU AFRICA'
+primary: true
+siteGroup: 0d0aee3e-b907-4c47-a9ed-91ea98dddcdf # UNITED UBUNTU AFRICA
+sortOrder: 1
